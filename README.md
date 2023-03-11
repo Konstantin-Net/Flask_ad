@@ -1,5 +1,5 @@
 ## REST API Flask (backend) для сайта объявлений.
-###  Тестовые запросы в Visual Studio Code (с приложением REST Clirnt)
+###  Тестовые запросы в Visual Studio Code (с приложением REST Client)
 
 ```bash
 # API-запросы
